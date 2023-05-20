@@ -5,7 +5,7 @@
 
 
 >>AUTHOR
-Name: Ugwuanyi Johnson Obinna Masino
-Mail: johnsonmasino@gmail.com
-TWT: masino_oficial
-LkIn: Johnson Masino
+0. Name: Ugwuanyi Johnson Obinna Masino
+1. Mail: johnsonmasino@gmail.com
+2. TWT: masino_oficial
+3. LkIn: Johnson Masino
