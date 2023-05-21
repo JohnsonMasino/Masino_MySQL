@@ -13,4 +13,4 @@ CREATE TABLE customer
 SELECT gender, net_worth, state
 FROM customer
 WHERE age > 18 AND age < 60
-ORDER BY state, gender, net_worth;
+ORDER BY state ASC, gender ASC, net_worth ASC;
