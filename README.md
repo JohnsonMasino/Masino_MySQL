@@ -12,3 +12,6 @@
 1. Mail: johnsonmasino@gmail.com
 2. TWT: masino_oficial
 3. LkIn: Johnson Masino
+
+>>START THE MySQL PROMPT WITH
+0. sudo service mysql start
